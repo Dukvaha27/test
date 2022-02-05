@@ -1,0 +1,10 @@
+.currency_dialog {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #e5e5e5;
+    width: 350px;
+    padding: 5px;
+    border-radius: 10px;
+}
